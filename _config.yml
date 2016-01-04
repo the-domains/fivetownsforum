@@ -1,0 +1,28 @@
+name: fivetownsforum
+favicon: null
+layout_spectrum: 0.7989036103244871
+typography_spectrum: 0.11473440355621278
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6993031038437039
+  lightness: 0.25033045723102987
+  saturation: 0.3002808257006109
+  rhythmicContrast: 0.04439065256156027
+purpose: []
