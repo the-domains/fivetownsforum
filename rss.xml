@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[fivetownsforum]]></title>
         <description><![CDATA[fivetownsforum]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fivetownsforum/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 19:24:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jan 2016 19:24:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fivetownsforum/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hewlett]]></title>
+            <description><![CDATA[<h1>Hewlett</h1>]]></description>
+            <link>https://thegrid.ai/fivetownsforum/hewlett/index.html</link>
+            <guid isPermaLink="false">7e82d3cd-3a8a-4bbf-bd13-2e6fec73a26c</guid>
+            <pubDate>Mon, 04 Jan 2016 19:24:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[the 5 towns forum ]]></title>
             <description><![CDATA[<article><h1>the 5 towns forum </h1><p>the five towns forum started in January 2016 by Elliott Wittert who is inspired by the way the neighborhoods of that part of long island are. feel free to post whatever you want about the 5 towns as long as its not illegal.</p></article>]]></description>
-            <link>undefinedthe-5-towns-forum/index.html</link>
+            <link>https://thegrid.ai/fivetownsforum/the-5-towns-forum/index.html</link>
             <guid isPermaLink="false">069b4eb3-8263-485e-8e15-7982431db4bd</guid>
             <pubDate>Mon, 04 Jan 2016 19:24:04 GMT</pubDate>
         </item>
